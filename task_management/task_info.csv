@@ -1,0 +1,4 @@
+task_id,data_set,lr,weight_decay,sparsity_weight,hidden_size,epochs,gpu_index,date
+104,rd101:100k:5k:5k,0.001,0,0,128,400,0,2019-12-07
+105,rd102:100k:10k:10k,0.001,0,0,128,600,0,2019-12-09
+106,rd102:100k:10k:10k,0.001,0,0,128,200,0,2019-12-09
