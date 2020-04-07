@@ -5,7 +5,9 @@
 In this project, we propose a motion planer using LSTM autoencoder to predict future information
 and RRG to plan a motion policy based on that information. We construct a maze problem to test our idea and prove that our planning algorithm can obtain valid motion policies as expected.
 
-<center>![A MuJoCo maze for testing](./media/maze_demo.png)</center>
+<p align="center">
+  <img src="./media/maze_demo.png" alt="A MuJoCo maze for testing">
+</p>
 
 This project is originally based on our course project for CS 6140 Machine Learning by Prof. Predrag Radivojac, Fall 2019, at Northeastern University Khoury College of Computer Sciences. 
 
