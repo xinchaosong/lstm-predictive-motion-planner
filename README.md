@@ -28,7 +28,7 @@ More work is ongoing.
 
 ### Project Report:
 
-*Available soon.*
+[https://github.com/xinchaosong/lstm-predictive-motion-planner/blob/master/A_Motion_Planner_Based_on_the_Prediction_Using_LSTM_Autoencoder.pdf](https://github.com/xinchaosong/lstm-predictive-motion-planner/blob/master/A_Motion_Planner_Based_on_the_Prediction_Using_LSTM_Autoencoder.pdf)
 
 ### Demo Video:
 
